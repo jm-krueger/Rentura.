@@ -1,0 +1,2 @@
+Prüfe, ob eine Klausel zum Mietobjekt vorliegt, die so ausgelegt werden kann, dass sofern die Wohnung nicht rechtzeitig benutzbar ist, der Vermieter dem Mieter eine andere Wohnung zuweisen darf, siehe OLG Köln, Urteil vom 07-06-1990 - 1 U 56/89
+Antwortformat: JSON {"score": <1-10>, "problem": "Kurzbeschreibung"}

@@ -1,0 +1,2 @@
+Prüfe, ob eine Klausel zu Schönheitsreparaturen vorliegt, die so ausgelegt werden kann, dass wenn bei Beendigung des Mietverhältnisses einzelne oder sämtliche Schönheitsreparaturen noch nicht fällig sind, der Mieter die zu erwartenden Kosten zeitanteilig an den Vermieter zu bezahlen hat, siehe BGH, Urteil vom 18.3.2015 – VIII ZR 242/13
+Antwortformat: JSON {"score": <1-10>, "problem": "Kurzbeschreibung"}

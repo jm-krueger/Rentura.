@@ -1,0 +1,2 @@
+Prüfe, ob eine Klausel zur Renovierung vorliegt, die so ausgelegt werden kann, dass sie eine regelmäßige Renovierung der Wohnung verpflichtet, siehe BGH, Urteil vom 23. Juni 2004 – VIII ZR 361/03
+Antwortformat: JSON {"score": <1-10>, "problem": "Kurzbeschreibung"}

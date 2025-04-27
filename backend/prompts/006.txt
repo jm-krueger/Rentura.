@@ -1,0 +1,2 @@
+Prüfe, ob eine Klausel zur Haftung vorliegt, die so ausgelegt werden kann, dass eine Privat-Haftpflichtversicherung abzuschließen und dies auf Verlangen des Vermieters nachzuweisen ist, siehe LG Berlin 16. September 1992 – 26 O 179/92
+Antwortformat: JSON {"score": <1-10>, "problem": "Kurzbeschreibung"}

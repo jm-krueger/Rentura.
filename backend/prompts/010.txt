@@ -1,0 +1,2 @@
+Prüfe, ob eine Klausel zur Haftung vorliegt, die so ausgelegt werden kann, dass sofern ein Mangel des Mietobjektes zu Sach- oder Vermögensschäden führt, der Vermieter gegenüber dem Mieter - für diese Schäden - auch aus unerlaubter Handlung - nur bei Vorsatz oder grober Fahrlässigkeit haftet, siehe BGH, Beschluss vom 24.10.2001, VIII ARZ 1/01
+Antwortformat: JSON {"score": <1-10>, "problem": "Kurzbeschreibung"}

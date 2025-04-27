@@ -1,0 +1,2 @@
+Prüfe, ob eine Klausel zur Schadensregulierung vorliegt, die so ausgelegt werden kann, dass der Schaden wird pauschal abgerechnet wird und der Mieter diese Pauschale nicht angreifen darf, siehe BGH, Urteil vom 12-01-1994 - VIII ZR 165/92
+Antwortformat: JSON {"score": <1-10>, "problem": "Kurzbeschreibung"}

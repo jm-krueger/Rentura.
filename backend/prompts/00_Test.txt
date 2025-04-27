@@ -1,0 +1,2 @@
+Zähle die Wörter im Vertrag.
+Antwortformat: JSON {"score": 9, "problem": "Dummy"}

@@ -1,0 +1,2 @@
+Prüfe, ob eine Klausel zu Musizieren vorliegt, die so ausgelegt werden kann, dass es verboten ist, in der Wohnung zu musizieren, siehe BGH Urteil vom 26.10.2018 (V ZR 143/17) klargestellt.
+Antwortformat: JSON {"score": <1-10>, "problem": "Kurzbeschreibung"}

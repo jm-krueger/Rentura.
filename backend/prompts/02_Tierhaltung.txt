@@ -1,0 +1,2 @@
+Prüfe, ob eine Klausel zur Tierhaltung vorliegt, die so ausgelegt werden kann, dass sie die für das Halten von Ziervögeln und Zierfischen eine Zustimmung des Vermieters anfordert. Eine Zustimmung darf der Vermieter nur in Fällen größerer Tiere, wie Hunde oder Katzen, einfordern siehe BGH, Urteil vom 18. Juni 2008 – VIII ZR 224/07.
+Antwortformat: JSON {"score": <1-10>, "problem": "Kurzbeschreibung"}

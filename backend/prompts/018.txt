@@ -1,0 +1,2 @@
+Prüfe, ob eine Klausel zum Mietbeginn vorliegt, die so ausgelegt werden kann, dass der Vermieter den Mietbeginn um 7 Wochen verschieben darf, BGH, Urteil vom 28-06-1984 - VII ZR 276/83
+Antwortformat: JSON {"score": <1-10>, "problem": "Kurzbeschreibung"}

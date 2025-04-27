@@ -1,0 +1,2 @@
+Prüfe, ob eine Klausel zu Renovierungen vorliegt, die so ausgelegt werden kann, dass die Wohnung ist beim Auszug zu ohne weitere Voraussetzungen zu renovieren ist, siehe BGH, Urteil vom 13. 1. 2010 – VIII ZR 48/09
+Antwortformat: JSON {"score": <1-10>, "problem": "Kurzbeschreibung"}

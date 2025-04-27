@@ -1,0 +1,260 @@
+[
+  {
+    "title": "§ 1 Mietgegenstand",
+    "body": "",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "1. Die Vermieterin vermietet an die Mieterin die Wohnung in 1010 Wien, Hauptstraße 10/2",
+    "body": "(3. Stock, Top 2), bestehend aus: \no Vorzimmer (ca. 6 m²) \no Wohnzimmer (ca. 20 m²) \no Schlafzimmer (ca. 14 m²) \no Küche mit Einbauküche \no Badezimmer mit Badewanne und Waschmaschinenanschluss \no getrenntes WC \no Kellerabteil Nr. 12",
+    "type": "Mietgegenstand",
+    "issues": {}
+  },
+  {
+    "title": "2. Zur Wohnung gehört weiters ein Tiefgaragenabstellplatz (Nr. 7) in der Liegenschaft.",
+    "body": "",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "§ 2 Mietdauer",
+    "body": "",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "1. Der Mietvertrag wird auf drei Jahre befristet und beginnt am 1. Jänner 2025.",
+    "body": "",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "2. Verlängerung: Sofern nicht eine der Parteien spätestens sechs Monate vor Ende der",
+    "body": "Befristung schriftlich kündigt, verlängert sich der Vertrag jedes Mal automatisch um \nweitere drei Jahre auf gleiche Bedingungen.",
+    "type": "Mietdauer",
+    "issues": {}
+  },
+  {
+    "title": "§ 3 Mietzins und Zahlungsmodalitäten",
+    "body": "",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "1. Hauptmietzins (Netto): € 950,00 monatlich.",
+    "body": "",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "2. Betriebskosten: Vorauszahlung € 150,00 monatlich. Abrechnung jährlich bis 30. Juni",
+    "body": "des Folgejahres.",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "3. Gesamtmiete: € 1.100,00 monatlich, zahlbar im Voraus bis zum 3. Werktag eines jeden",
+    "body": "Monats.",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "4. Zahlung: Überweisung auf das Konto der Vermieterin bei der Erste Bank:",
+    "body": "IBAN ATXX XXXX XXXX XXXX ; BIC GIBAATWWXXX.",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "5. Verzug: Bei Zahlungsverzug gelten Verzugszinsen in Höhe von 4 % p.a. über dem",
+    "body": "Basiszinssatz und eine Pauschale von € 40,00 pro Mahnung als vereinbart.",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "§ 4 Kaution",
+    "body": "",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "1. Die Mieterin leistet eine Barkaution von € 3.300,00 (drei Monatsmieten exkl. BK) bis",
+    "body": "spätestens 14 Tage nach Unterfertigung dieses Vertrages.",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "2. Die Kaution dient als Sicherheit für alle Ansprüche der Vermieterin und wird auf einem",
+    "body": "verzinsten Treuhandkonto bei der Erste Bank angelegt.",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "3. Rückzahlung: Binnen 30 Tagen nach Rückgabe der Wohnung und Erstellung des",
+    "body": "Endbelegs.",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "§ 5 Übergabe und Rückgabe",
+    "body": "",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "1. Bei Übergabe wird ein detailliertes Übergabeprotokoll erstellt, in dem der Zustand der",
+    "body": "Wohnung, Zählerstände, Schlüsselanzahl und Mängel festgehalten werden.",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "2. Bei Beendigung des Mietverhältnisses wird ein Rückgabeprotokoll angefertigt.",
+    "body": "",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "3. Schäden, die über normale Abnutzung hinausgehen, sind von der Mieterin zu ersetzen.",
+    "body": "",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "§ 6 Betriebskosten",
+    "body": "",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "1. Die Mieterin trägt alle umlagefähigen Betriebskosten gemäß § 21 MRG.",
+    "body": "",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "2. Eine abschließende Aufzählung der Kostenarten erfolgt in Anlage 1 (Beiheft",
+    "body": "Betriebskosten).",
+    "type": "Nebenkosten",
+    "issues": {
+      "error": "Could not parse LLM JSON: Expecting value: line 1 column 1 (char 0)"
+    }
+  },
+  {
+    "title": "§ 7 Wertsicherung",
+    "body": "",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "1. Die Parteien vereinbaren eine Wertsicherung des Mietzinses auf Basis des",
+    "body": "Verbraucherpreisindexes (VPI) 1976.",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "2. Maßgeblich ist der VPI des Monats des Vertragsbeginns als Basiswert. Erhöht sich der",
+    "body": "VPI um mehr als 2 % gegenüber dem Basiswert, so wird die Miete entsprechend \nangepasst.",
+    "type": "Mietzins",
+    "issues": {
+      "error": "Could not parse LLM JSON: Expecting value: line 1 column 1 (char 0)"
+    }
+  },
+  {
+    "title": "3. Sollte der VPI 1976 nicht mehr publiziert werden, tritt automatisch der Index in Kraft,",
+    "body": "der ihm am ehesten entspricht.",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "§ 8 Instandhaltung und Erhaltung",
+    "body": "",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "1. Vermieterin: Trägt Aufwendungen für wesentliche Substanzmängel und",
+    "body": "Instandsetzungen, die nicht auf unsachgemäße Behandlung zurückzuführen sind.",
+    "type": "Instandhaltung",
+    "issues": {}
+  },
+  {
+    "title": "2. Mieterin: Führt kleinere Schönheitsreparaturen (z. B. Streichen der Wände, Wechsel von",
+    "body": "Dichtungen), kleinere Wartungen und Reparaturen bis zu einem Betrag von € 150,00 pro \nEinzelfall selbst durch.",
+    "type": "Instandhaltung",
+    "issues": {}
+  },
+  {
+    "title": "3. Größere Adaptierungen bedürfen schriftlicher Zustimmung der Vermieterin.",
+    "body": "",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "§ 9 Änderung und Untervermietung",
+    "body": "",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "1. Änderungen der Wohnung (z. B. Einbau von Regalen, Bohren in Wände) bedürfen",
+    "body": "vorheriger schriftlicher Zustimmung.",
+    "type": "Untervermietung",
+    "issues": {}
+  },
+  {
+    "title": "2. Untervermietung oder Gebrauchsüberlassung an Dritte ist ohne ausdrückliche",
+    "body": "Zustimmung unzulässig.",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "§ 10 Tierhaltung",
+    "body": "Hunde und Kleintiere dürfen nur mit schriftlicher Bewilligung der Vermieterin gehalten \nwerden.",
+    "type": "Tierhaltung",
+    "issues": {}
+  },
+  {
+    "title": "§ 11 Kündigung",
+    "body": "",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "1. Kündigungsverzicht: Die Mieterin verzichtet auf ihr Kündigungsrecht für die ersten",
+    "body": "drei Jahre.",
+    "type": "Mietdauer",
+    "issues": {}
+  },
+  {
+    "title": "2. Nach Ablauf der Befristung gelten die gesetzlichen Kündigungsfristen gemäß § 30 MRG",
+    "body": "(dreimonatige Kündigungsfrist).",
+    "type": "Kündigung",
+    "issues": {
+      "error": "Could not parse LLM JSON: Expecting value: line 1 column 1 (char 0)"
+    }
+  },
+  {
+    "title": "§ 12 Hausordnung",
+    "body": "Die Mieterin verpflichtet sich, die in Anlage 2 enthaltene Hausordnung einzuhalten.",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "§ 13 Datenschutz",
+    "body": "Personenbezogene Daten werden von der Vermieterin nur im Rahmen dieses Mietverhältnisses \nverarbeitet und nicht an Dritte weitergegeben.",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "§ 14 Salvatorische Klausel",
+    "body": "Sollte eine Bestimmung dieses Vertrages unwirksam sein, bleibt der Vertrag im Übrigen gültig. \nDie unwirksame Regelung wird durch eine zulässige ersetzt, die dem wirtschaftlichen Zweck am \nnächsten kommt.",
+    "type": "NON_LISTED",
+    "issues": {}
+  },
+  {
+    "title": "§ 15 Gerichtsstand und anwendbares Recht",
+    "body": "Dieser Vertrag unterliegt österreichischem Recht. Gerichtsstand für alle Streitigkeiten ist Wien. \n \nWien, __________________ \n \nMag. Thomas Huber (Vermieterin) \n \nAnna Müller (Mieterin)",
+    "type": "NON_LISTED",
+    "issues": {}
+  }
+]

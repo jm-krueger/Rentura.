@@ -1,0 +1,2 @@
+Prüfe, ob eine Klausel zu laufenden Schönheitsreparaturen vorliegt, die so ausgelegt werden kann, dass sie verpflichtet, diese nur in neutralen, hellen, deckenden Farben und Tapeten auszuführen, siehe BGH, Urteil vom 18. Juni 2008 – VIII ZR 224/07 
+Antwortformat: JSON {"score": <1-10>, "problem": "Kurzbeschreibung"}

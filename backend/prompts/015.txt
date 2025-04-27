@@ -1,0 +1,2 @@
+Prüfe, ob eine Klausel zur Vertragsform vorliegt, die so ausgelegt werden kann, dass sämtliche Vereinbarungen schriftlich niederzulegen sind und die auch für (Nebenabreden und Zusicherungen sowie für) nachträgliche Vertragsänderungen gilt, siehe BGH, Urteil vom 27. 9. 2000 - VIII ZR 155/99
+Antwortformat: JSON {"score": <1-10>, "problem": "Kurzbeschreibung"}

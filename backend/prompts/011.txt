@@ -1,0 +1,2 @@
+Prüfe, ob eine Klausel zu Umbauten vorliegt, die so ausgelegt werden kann, dass es verboten ist, Satellitenschüsseln anzubringen, siehe Urteil des VIII. Zivilsenats vom 16.5.2007 - VIII ZR 207/04 
+Antwortformat: JSON {"score": <1-10>, "problem": "Kurzbeschreibung"}

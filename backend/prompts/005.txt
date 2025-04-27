@@ -1,0 +1,2 @@
+Prüfe, ob eine Klausel zur Kautionen vorliegt, die so ausgelegt werden kann, dass sie den Mieter zusätzlich zur vereinbarten Kaution verpflichtet, eigenständig und unaufgefordert eine selbstschuldnerische Bürgschaftserklärung abzugeben, siehe BGH vom 7. Juni 1990 – IX ZR 16/90
+Antwortformat: JSON {"score": <1-10>, "problem": "Kurzbeschreibung"}

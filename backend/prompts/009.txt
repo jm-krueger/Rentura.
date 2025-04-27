@@ -1,0 +1,2 @@
+Prüfe, ob eine Klausel zu Untermietverträgen vorliegt, die so ausgelegt werden kann, dass ein Untermietzuschlag zu zahlen ist, siehe AG Neukölln, Urteil vom 26.03.2020 – AZ 8 C 289/19
+Antwortformat: JSON {"score": <1-10>, "problem": "Kurzbeschreibung"}

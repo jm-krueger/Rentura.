@@ -1,0 +1,2 @@
+Prüfe, ob eine Klausel zur Kündigung vorliegt, die so ausgelegt werden kann, dass wenn der Mieter mit zwei Raten in Rückstand gerät, der gesamte Restbetrag bis zum nächstmöglichen Kündigungstermin sofort fällig wird, siehe BGH, Urteil vom 21-02-1985 - IX ZR 129/84 
+Antwortformat: JSON {"score": <1-10>, "problem": "Kurzbeschreibung"}

@@ -1,0 +1,2 @@
+Prüfe, ob die Kündigungsfristen im Vertrag kürzer sind als in §573c BGB.
+Antwortformat: JSON {"score": <1-10>, "problem": "Kurzbeschreibung"}

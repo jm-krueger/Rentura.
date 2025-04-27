@@ -1,0 +1,2 @@
+Prüfe, ob eine Klausel zu Untermietverträgen vorliegt, die so ausgelegt werden kann, dass diese generell verboten sind, siehe BGH, Urteil v. 27.9.2023, VIII ZR 88/22 
+Antwortformat: JSON {"score": <1-10>, "problem": "Kurzbeschreibung"}

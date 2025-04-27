@@ -1,0 +1,2 @@
+Prüfe, ob eine Klausel zum Mietobjekt vorliegt, die so ausgelegt werden kann, dass die Angaben im Mietvertrag zu den Quadratmetern wegen möglicher Messfehler nicht zur Festlegung des Mietgegenstands dient und der räumliche Umfang der gemieteten Sache sich vielmehr aus der Anzahl der vermieteten Räume ergibt, siehe BGH, Urteil vom 10. 11. 2010 - VIII ZR 306/09 
+Antwortformat: JSON {"score": <1-10>, "problem": "Kurzbeschreibung"}

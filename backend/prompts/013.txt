@@ -1,0 +1,2 @@
+Prüfe, ob eine Klausel zur Mietminderung vorliegt, die so auszulegen ist, dass sie Mietminderungen generell ausschließt, siehe § 536 Abs. 4 BGB
+Antwortformat: JSON {"score": <1-10>, "problem": "Kurzbeschreibung"}
